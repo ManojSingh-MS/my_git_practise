@@ -7,6 +7,7 @@ venv/
 
 # C extensions
 *.so
+my_test.ipynb
 
 # Distribution / packaging
 .Python
